@@ -20,7 +20,7 @@ h6 {
   font-family: 'Microsoft JhengHei', serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #343a40;
+  color: #007bff;
 }
 
 h1 {
@@ -131,7 +131,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #007bff !important;
 }
 
 .text-primary {
