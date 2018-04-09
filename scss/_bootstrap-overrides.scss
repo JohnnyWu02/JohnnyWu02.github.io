@@ -1,13 +1,13 @@
 .bg-primary {
-  background-color: #007bff!important;
+  background-color: #007bff !important;
 }
 
 .text-primary {
-  color: $primary !important;
+  color: #007bff !important;
 }
 
 a {
-  color: $primary;
+  color: #007bff;
   &:hover,
   &:focus,
   &:active {
