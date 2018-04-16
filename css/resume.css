@@ -15,8 +15,30 @@ h1,
 h2{
   font-familly: inherit;
 }
+
 h3{
   font-familly: inherit;
+}
+.timeline {
+  position: relative;
+  margin: 0 auto;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: #bd5d38
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+.timeline-block {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
 }
 h4,
 h5,
