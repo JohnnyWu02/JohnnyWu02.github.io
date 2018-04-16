@@ -12,8 +12,12 @@ body {
 }
 
 h1,
-h2,
-h3,
+h2{
+  font-familly: inherit;
+}
+h3{
+  font-familly: inherit;
+}
 h4,
 h5,
 h6 {
